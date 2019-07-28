@@ -5,7 +5,7 @@
 -->
 ![(Placeholder) Icon of Beautysh](gui/icon.png "(Placeholder) Icon of Beautysh")
 
-**This is the unofficial snap for Beautysh**, *"Single-line elevator pitch for your amazing snap"*. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.
+**This is the unofficial snap for Beautysh**, *"A Bash beautifier for the masses"*. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.
 
 <!-- Uncomment and modify this when you are provided a build status badge
 [![Build Status Badge of the `beautysh` Snap](https://build.snapcraft.io/badge/snap-dump/beautysh-snap.svg "Build Status of the `beautysh` snap")](https://build.snapcraft.io/user/snap-dump/beautysh-snap)
