@@ -8,13 +8,13 @@ Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) ar
 
 - [x] Create beautysh-snap (or any valid name you prefer) repository via the [Use this template](https://github.com/Lin-Buo-Ren/snapcrafters-template-plus/generate) button above
   - It is recommended to *avoid forking the template repository* unless you're working on the template itself because you can only fork a repository once
-- [ ] Update the description of the repository
-- [ ] Update logos and references to `Beautysh`, `beautysh` and other placeholder names in `README.md`, `snap/README.md`, and `snap/snapcraft.yaml`
-- [ ] Add upstream contact information to this `README.md`
-- [ ] Create a snap that runs in `devmode`, [or in `classic` confinement if that's not possible](https://forum.snapcraft.io/t/subtle-differences-between-devmode-and-classic-confinement-snaps/7267)
+- [x] Update the description of the repository
+- [x] Update logos and references to `Beautysh`, `beautysh` and other placeholder names in `README.md`, `snap/README.md`, and `snap/snapcraft.yaml`
+- [x] Add upstream contact information to this `README.md`
+- [x] Create a snap that runs in `devmode`, [or in `classic` confinement if that's not possible](https://forum.snapcraft.io/t/subtle-differences-between-devmode-and-classic-confinement-snaps/7267)
     - [ ] If the snap must be packaged under `classic` confinement, file a [classic confinement request](https://forum.snapcraft.io/t/process-for-reviewing-classic-confinement-snaps/1460) topic in the Snapcraft Forum, under the `store` topic category - [template](https://github.com/Lin-Buo-Ren/snapcrafters-template-plus/wiki/Classic-Confinement-Request-Template) - [link]()
 - [ ] Add a screenshot to `snap/README.md`
-- [ ] Register the snap in the Snap Store, **using the preferred upstream name**(i.e. without custom postfix).  If the preferred upstream name is not available or reserved, [file a request to take over the preferred upstream name](https://dashboard.snapcraft.io/register-snap) and temporary use a name with personal postfix instead.
+- [x] Register the snap in the Snap Store, **using the preferred upstream name**(i.e. without custom postfix).  If the preferred upstream name is not available or reserved, [file a request to take over the preferred upstream name](https://dashboard.snapcraft.io/register-snap) and temporary use a name with personal postfix instead.
 - [ ] Setup [build.snapcraft.io](https://build.snapcraft.io) and publish the `devmode` snap in the Snap Store edge channel
 - [ ] Add the provided Snapcraft build badge to `snap/README.md`
 - [ ] Update snap's metadata, icons and screenshots on the [dashboard](https://dashboard.snapcraft.io)
@@ -61,9 +61,7 @@ You may generate the unique hash by using the following command in terminal:
 
 -->
 
-<!-- 
 ## Contacts
 | Packager | Upstream |
 | :-: | :-: |
-| [![Packager's avatar](http://gravatar.com/avatar/66a5b84972e73e895d5d68d48b1e1e22/?s=128)<br>Packager's name](mailto:packager.contact) | [![Upstream's avatar](GitHub-Mark.png)<br>Upstream's contact name](mailto:upstream.contact) |
--->
+| [![Packager's avatar](http://gravatar.com/avatar/66a5b84972e73e895d5d68d48b1e1e21/?s=128)<br>林博仁(Buo-ren, Lin)](mailto:Buo.Ren.Lin@gmail.com) | [![Upstream's avatar](GitHub-Mark.png)<br>Beautysh's project issue tracker](https://github.com/lovesegfault/beautysh/issues) |
